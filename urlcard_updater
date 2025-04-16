@@ -1,10 +1,10 @@
 {
-  "version": 4,
+  "version": 5,
   "last_updated": "2025-04-16T12:00:00Z",
   "card_button": {
     "enabled": true,
     "text": "join our telegram channel",
-    "url": "https://youtube.com/@demon-450vpn?si=AJrI6lad532YL0lc",
-    "icon": "ytblue3"
+    "url": "https://t.me/DemonTunnel",
+    "icon": "ic_teleg"
   }
 }
