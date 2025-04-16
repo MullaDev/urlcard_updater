@@ -1,9 +1,9 @@
 {
-  "version": 3,
+  "version": 4,
   "last_updated": "2025-04-16T12:00:00Z",
   "card_button": {
     "enabled": true,
-    "text": "Support our ytb channel",
+    "text": "join our telegram channel",
     "url": "https://youtube.com/@demon-450vpn?si=AJrI6lad532YL0lc",
     "icon": "ytblue3"
   }
