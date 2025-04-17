@@ -3,7 +3,7 @@
   "last_updated": "2025-04-17T12:00:00Z",
   "card_button": {
     "enabled": true,
-    "text": "join our telegram channel",
+    "text": "join us on telegram",
     "url": "https://t.me/DemonTunnel",
     "icon": "ic_teleg"
   }
