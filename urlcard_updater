@@ -1,9 +1,9 @@
 {
-  "version": 7,
+  "version": 8,
   "last_updated": "2025-04-17T12:00:00Z",
   "card_button": {
     "enabled": true,
-    "text": "join us on telegram",
+    "text": "Telegram Channel",
     "url": "https://t.me/DemonTunnel",
     "icon": "ic_teleg"
   }
