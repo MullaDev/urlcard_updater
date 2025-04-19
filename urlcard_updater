@@ -1,10 +1,10 @@
 {
-  "version": 8,
+  "version": 9,
   "last_updated": "2025-04-17T12:00:00Z",
   "card_button": {
     "enabled": true,
-    "text": "Telegram Channel",
-    "url": "https://t.me/DemonTunnel",
+    "text": "Join Our Telegram Channel",
+    "url": "https://t.me/DemonV101",
     "icon": "ic_teleg"
   }
 }
