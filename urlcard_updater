@@ -1,10 +1,10 @@
 {
-  "version": 9,
+  "version": 10,
   "last_updated": "2025-04-17T12:00:00Z",
   "card_button": {
     "enabled": true,
-    "text": "Join Our Telegram Channel",
-    "url": "https://t.me/DemonV101",
+    "text": "Join Our Telegram Team",
+    "url": "https://t.me/addlist/rxTXxK44daVlNjE8",
     "icon": "ic_teleg"
   }
 }
