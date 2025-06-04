@@ -7,8 +7,8 @@
     "url": "https://t.me/addlist/rxTXxK44daVlNjE8",
     "icon": "ic_teleg",
     "icon_tint": {
-      "light": "#FF0000", // Red tint for light mode
-      "dark": "#00FF00"  // Green tint for dark mode
+      "light": "#FF0000",
+      "dark": "#00FF00"
     }
   }
 }
