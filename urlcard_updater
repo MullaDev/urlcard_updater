@@ -1,14 +1,14 @@
 {
-  "version": 11,
+  "version": 12,
   "last_updated": "2025-06-03T12:00:00Z",
   "card_button": {
     "enabled": true,
     "text": "Join Our Telegram Team",
-    "url": "https://t.me/addlist/rxTXxK44daVlNjE8",
+    "url": "https://t.me/addlist/sLG_IVSdPXE1Y2I8",
     "icon": "ic_teleg",
     "icon_tint": {
-      "light": "#FF0000",
-      "dark": "#00FF00"
+      "light": "#448bff",
+      "dark": "#82b2ff"
     }
   }
 }
